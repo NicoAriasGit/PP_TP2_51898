@@ -1,2 +1,9 @@
 # PP_TP2_51898
 Entrega del segundo trabajo de Paradigmas de la programación del 2026
+
+
+El trabajo tiene la posibilidad de crear estudiantes, salas, eventos y actividades con el propósito de organizar inscripciones a los eventos propios y manejar costos y ganancias posibles.
+También permite buscar información sobre actividades particulares a través del uso de un filtro y el uso de la función mostrarDatos().
+
+Aquí el ejemplo dado en el main del repositorio:
+<img width="801" height="377" alt="image" src="https://github.com/user-attachments/assets/4fedfe2e-7f3b-4e8a-b66e-6d9c1263065e" />
